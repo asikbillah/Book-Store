@@ -1,4 +1,4 @@
-Book Store: A JavaScript Project
+#Book Store: A JavaScript Project
 
 This JavaScript project creates a simple but functional online book store experience. Users can browse a collection of books, add them to a virtual shopping cart stored in local storage, and remove items they no longer want. This project provides a practical introduction to working with local storage for managing user data in a web application.
 
